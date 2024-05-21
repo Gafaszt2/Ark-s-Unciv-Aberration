@@ -1,0 +1,75 @@
+[	
+	// Bonus resources
+	{
+		"name": "Phiomia",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"food": 1,
+                "civilopediaText": [{"text": "Phiomia ignavus is another of the Island's generally docile herd animals. They are small enough that almost any predator can bring them down but large enough to provide plenty of meat. Were it not for the protection of the herd and their instinct to run from any predator, these would almost certainly be hunted to extinction."}]
+		"improvement": "Ranch",
+		"improvementStats": {"production": 1},
+	},
+	{
+		"name": "Ovis",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"food": 1,
+                "civilopediaText": [{"text": "Ovis arcam is quite different from the modern domesticated sheep - and even from wild sheep species such as Ovis orientalis. The unique markings on its face give it a striking appearance, and the males' horns possess a unique shape that is unlike any other species in the Ovis genus. As one might expect, Ovis stands little chance against this Island's many predators. Like the Dodo, its continued survival in the face of these challenges is a mystery."}]
+		"improvement": "Ranch",
+		"improvementStats": {"food": 1},
+	},
+	{
+		"name": "Megaloceros",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Tundra"], // Tundra only if lowland
+		"food": 1,
+                "civilopediaText": [{"text": "Megaloceros latuscoronam is a very skittish herbivore, found mostly in the forests and mountains of the Island. Because of its large size, its fraught demeanor would be strange in any other place. But Megaloceros knows how fierce the predators of the island are, and that it is safer to flee from them than to risk its life in a fight. The antlers of Megaloceros are very large, and make for an excellent source of keratin."}]
+		"improvement": "Ranch",
+		"improvementStats": {"production": 1},
+	},
+
+        {
+		"name": "Roll Rat",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Aberrant Green Zone","Grassland"],
+		"food": 1,
+                "uniques": ["Generated on every [17] tiles <in [Grassland] tiles>"]
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+	},
+        {
+		"name": "Basilisk",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Aberrant Green Zone","Plains"],
+		"food": 1,
+                "uniques": ["Generated on every [17] tiles <in [Plains] tiles>"]
+		"improvement": "Camp",
+		"improvementStats": {"culture": 1},
+	},
+        {
+		"name": "Chupacabra",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Aberrant Blue Zone","Tundra"],
+		"science": 1,
+		"improvement": "Camp",
+                "uniques": ["Generated on every [17] tiles <in [Tundra] tiles>"]
+		"improvementStats": {"food": 1},
+	},
+                {
+		"name": "Ravager",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["Eldritch","Aberrant Green Zone","Aberrant Blue Zone","Grassland","Plains","Desert"],
+		"food": 1,
+                "uniques": ["Generated on every [8] tiles <in [{Grassland} {Forest}] tiles>",
+                            "Generated on every [25] tiles <in [Jungle] tiles>",
+                             "Generated on every [25] tiles <in [Grassland] tiles>",
+                            "Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
+					"Generated on every [12] tiles <in [{Featureless} {Desert}] tiles>",
+					"Generated on every [25] tiles <in [{Plains} {Forest}] tiles> <in tiles without [Hill]>",
+					"Generated on every [25] tiles <in [{Grassland} {Forest}] tiles> <in tiles without [Hill]>",
+					"Generated on every [16] tiles <in [{Featureless} {Plains}] tiles> <in [Hill] Regions>",
+					"Generated on every [28] tiles <in [Forest] tiles> <in [Hill] Regions>"]
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+	},
+	]
