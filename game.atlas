@@ -368,9 +368,23 @@ TileSets/FantasyHex/Tiles/Mayan Temple
   orig: 32, 36
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Mosasaurus Skeleton
+TileSets/FantasyHex/Tiles/Montano
   rotate: false
   xy: 692, 13
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Montano2
+  rotate: false
+  xy: 732, 13
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mosasaurus Skeleton
+  rotate: false
+  xy: 772, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -412,7 +426,7 @@ TileSets/FantasyHex/Tiles/Ocean
   index: -1
 TileSets/FantasyHex/Tiles/Plains
   rotate: false
-  xy: 732, 13
+  xy: 812, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -447,14 +461,14 @@ TileSets/FantasyHex/Tiles/PlainsHillForest
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Jungle
   rotate: false
-  xy: 772, 13
+  xy: 852, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/PlainsJungle
   rotate: false
-  xy: 772, 13
+  xy: 852, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -482,70 +496,91 @@ TileSets/FantasyHex/Tiles/Sap Collector
   index: -1
 TileSets/FantasyHex/Tiles/Snow
   rotate: false
-  xy: 812, 13
+  xy: 892, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Surface
   rotate: false
-  xy: 812, 13
+  xy: 892, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Tar Pit
+TileSets/FantasyHex/Tiles/Snowy Beach
   rotate: false
   xy: 1562, 24
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Tundra
+TileSets/FantasyHex/Tiles/Snowy Beach2
   rotate: false
-  xy: 852, 13
+  xy: 1602, 24
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Tundra Mountain
-  rotate: false
-  xy: 892, 5
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/TundraForest
+TileSets/FantasyHex/Tiles/Snowy Beach3
   rotate: false
   xy: 932, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Viking Ruin
+TileSets/FantasyHex/Tiles/Tar Pit
   rotate: false
   xy: 972, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Void
-  rotate: false
-  xy: 1012, 13
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Volcanic Zone
+TileSets/FantasyHex/Tiles/Tundra
   rotate: false
   xy: 1052, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Tundra Mountain
+  rotate: false
+  xy: 1092, 5
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TundraForest
+  rotate: false
+  xy: 1642, 16
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Viking Ruin
+  rotate: false
+  xy: 1682, 16
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Void
+  rotate: false
+  xy: 1722, 24
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Volcanic Zone
+  rotate: false
+  xy: 1762, 24
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Waterfall
   rotate: false
-  xy: 1092, 13
+  xy: 1802, 24
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -587,7 +622,7 @@ TileSets/FantasyHex/Units/Furious Rollrat
   index: -1
 TileSets/FantasyHex/Units/Trained Rock Drake
   rotate: false
-  xy: 1602, 24
+  xy: 1012, 13
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
