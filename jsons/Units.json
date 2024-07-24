@@ -59,7 +59,7 @@
 	},
         {
 		"name": "Aberrant Iguanodon",
-		"unitType": "Prey",
+		"unitType": "Ornithischia",
 		"movement": 2,
 		"strength": 20,
 		"cost": 79,
